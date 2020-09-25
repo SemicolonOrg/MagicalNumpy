@@ -1,2 +1,2 @@
-def numpy():
+def enhanced_numpy():
   pass
